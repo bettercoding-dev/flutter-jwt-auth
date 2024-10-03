@@ -2,7 +2,9 @@
 
 This project showcases a simple implementation of JWT auth in Flutter.
 
-A detailed explanation of the implementation can be found on bettercoding.dev.
+A detailed explanation of the implementation can be
+found [in this blog](https://bettercoding.dev/flutter-jwt-authentication/) post
+on [bettercoding.dev](https://bettercoding.dev).
 
 ## Server
 
