@@ -1,0 +1,6 @@
+[submodule "shelf-jwt-test-server"]
+	path = shelf-jwt-test-server
+	url = git@github.com:bettercoding-dev/shelf-jwt-test-server.git
+[submodule "server/shelf-jwt-test-server"]
+	path = server/shelf-jwt-test-server
+	url = git@github.com:bettercoding-dev/shelf-jwt-test-server.git
